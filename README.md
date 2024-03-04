@@ -74,9 +74,13 @@ We can see in the download folder the JSON credentials file downloaded from Goog
 
 ### 1.3. Set Environment Variable
 
-We run the application to edit and create a new environmental variable **GOOGLE_APPLICATION_CREDENTIALS**
+We run the application to edit the environmental variables 
 
 ![image](https://github.com/luiscoco/GoogleCloud_Pub_Sub_with_dotNET8_WebAPI_producer/assets/32194879/ab8ad61b-f6e2-435b-808b-fc32443eca60)
+
+We have to create a new environmental variable called **GOOGLE_APPLICATION_CREDENTIALS**
+
+This variable have to point to the path where we have placed the JSON key file for our Google Cloud Service Account
 
 ![image](https://github.com/luiscoco/GoogleCloud_Pub_Sub_with_dotNET8_WebAPI_producer/assets/32194879/62da6348-303c-4c04-bae1-c18223b56072)
 
