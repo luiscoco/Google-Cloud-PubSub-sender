@@ -18,7 +18,6 @@
 
 We run the application to edit and set the environmental variables
 
-![image](https://github.com/luiscoco/GoogleCloud_Pub_Sub_with_dotNET8_WebAPI_producer/assets/32194879/4af08313-0588-460e-8650-7b898a0d650b)
 
 
 ## 2. Create a .NET8 WebAPI with VSCode
