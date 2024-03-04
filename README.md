@@ -6,7 +6,23 @@
 
 **Pub/Sub API Enabled**: Make sure the Pub/Sub API is enabled in your project. You can check this or enable it in the "APIs & Services" section of the Google Cloud Console
 
+We first have to log in to Google Cloud Service 
+
+![image](https://github.com/luiscoco/GoogleCloud_Pub_Sub_with_dotNET8_WebAPI_producer/assets/32194879/434e7c37-a5af-46f3-9039-333c7155da53)
+
+We have to search for Pub/Sub service 
+
+![image](https://github.com/luiscoco/GoogleCloud_Pub_Sub_with_dotNET8_WebAPI_producer/assets/32194879/bbc6178e-f2d5-4323-9fd7-3c84800d5c46)
+
 ### 1.1. Create a Topic
+
+We press **CREATE TOPIC** button 
+
+![image](https://github.com/luiscoco/GoogleCloud_Pub_Sub_with_dotNET8_WebAPI_producer/assets/32194879/1bda8bf5-9b43-453c-97f6-17dc858c1f39)
+
+We input the topic name
+
+![image](https://github.com/luiscoco/GoogleCloud_Pub_Sub_with_dotNET8_WebAPI_producer/assets/32194879/f22cf987-2885-45a5-b6f3-050cf24eef42)
 
 
 
