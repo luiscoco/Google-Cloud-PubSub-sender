@@ -20,9 +20,13 @@ We press **CREATE TOPIC** button
 
 ![image](https://github.com/luiscoco/GoogleCloud_Pub_Sub_with_dotNET8_WebAPI_producer/assets/32194879/1bda8bf5-9b43-453c-97f6-17dc858c1f39)
 
-We input the topic name
+We input the topic name an press the **CREATE** button
 
 ![image](https://github.com/luiscoco/GoogleCloud_Pub_Sub_with_dotNET8_WebAPI_producer/assets/32194879/f22cf987-2885-45a5-b6f3-050cf24eef42)
+
+We verify the new topic and the corresponding subscription were created
+
+![image](https://github.com/luiscoco/GoogleCloud_Pub_Sub_with_dotNET8_WebAPI_producer/assets/32194879/5cc67d2c-9b34-44c3-bd32-89f1be2960e8)
 
 
 
