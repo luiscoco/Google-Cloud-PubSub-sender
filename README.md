@@ -140,7 +140,7 @@ dotnet add package Google.Cloud.PubSub.V1
 
 ## 4. Create the project structure
 
-![Uploading image.png…]()
+![image](https://github.com/luiscoco/GoogleCloud_Pub_Sub_with_dotNET8_WebAPI_producer/assets/32194879/f73e2442-6f28-402e-b276-66196a4a68ff)
 
 ## 5. Create the Controller
 
