@@ -54,6 +54,24 @@ We finally press the **Done** button
 
 ![image](https://github.com/luiscoco/GoogleCloud_Pub_Sub_with_dotNET8_WebAPI_producer/assets/32194879/a4be875d-6724-433b-9518-06a8e53145e7)
 
+We verify our new service accoung. We press on the email link 
+
+![image](https://github.com/luiscoco/GoogleCloud_Pub_Sub_with_dotNET8_WebAPI_producer/assets/32194879/11646265-1ba8-4e4d-b07d-b21b31282e97)
+
+We also create a new Key with a JSON format. For this porpuse we click on the **Keys** tab
+
+![image](https://github.com/luiscoco/GoogleCloud_Pub_Sub_with_dotNET8_WebAPI_producer/assets/32194879/e21f0579-2f54-4cc0-baa9-da3dcfd1ed6b)
+
+Then we press **Create new key** option and we select the JSON option in the subsequent dialog box
+
+![image](https://github.com/luiscoco/GoogleCloud_Pub_Sub_with_dotNET8_WebAPI_producer/assets/32194879/7cbe59c0-c5cf-482a-9c4f-f7d1ff8a19c6)
+
+![image](https://github.com/luiscoco/GoogleCloud_Pub_Sub_with_dotNET8_WebAPI_producer/assets/32194879/3b3bd2ff-b6ff-49de-a263-984e453c5b97)
+
+We can see in the download folder the JSON credentials file downloaded from Google Cloud Service Account
+
+![image](https://github.com/luiscoco/GoogleCloud_Pub_Sub_with_dotNET8_WebAPI_producer/assets/32194879/217299e5-5003-4b9d-9b60-01093b4f37c7)
+
 ### 1.3. Set Environment Variable
 
 We run the application to edit and set the environmental variables
