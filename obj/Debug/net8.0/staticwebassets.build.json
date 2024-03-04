@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IV4hQEBjEXv56pOehFGEUDXnA5FkqeBPJpfOk61GYzw=",
+  "Source": "GooglePubSubSenderApi",
+  "BasePath": "_content/GooglePubSubSenderApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

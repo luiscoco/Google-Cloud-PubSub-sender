@@ -1,0 +1,6 @@
+@GooglePubSubSenderApi_HostAddress = http://localhost:5089
+
+GET {{GooglePubSubSenderApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
