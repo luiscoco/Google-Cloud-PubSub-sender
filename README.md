@@ -240,9 +240,14 @@ We execute the following command to run the application
 dotnet run
 ```
 
-![image](https://github.com/luiscoco/GoogleCloud_Pub_Sub_with_dotNET8_WebAPI_producer/assets/32194879/473bcde1-abec-4be8-8345-2578aac4a912)
+![image](https://github.com/luiscoco/GoogleCloud_Pub_Sub_with_dotNET8_WebAPI_producer/assets/32194879/b01782d4-ef92-4305-b2dc-0f2ba808647e)
 
 We can verify the API docs with Swagger OpenAPI
 
-![image](https://github.com/luiscoco/GoogleCloud_Pub_Sub_with_dotNET8_WebAPI_producer/assets/32194879/b59b15ba-0a95-4218-9a8d-8b3bbc59c89b)
+![image](https://github.com/luiscoco/GoogleCloud_Pub_Sub_with_dotNET8_WebAPI_producer/assets/32194879/97de2fc3-feef-43d0-af56-d04d5b65cefc)
+
+![image](https://github.com/luiscoco/GoogleCloud_Pub_Sub_with_dotNET8_WebAPI_producer/assets/32194879/071c8a3f-896e-4a53-a812-9dd914223fe4)
+
+
+
 
