@@ -130,11 +130,17 @@ This command opens VSCode in the current directory, where . represents the curre
 
 ## 3. Load project dependencies
 
+We run this command to load the project library
 
+```
+dotnet add package Google.Cloud.PubSub.V1
+```
+
+![image](https://github.com/luiscoco/GoogleCloud_Pub_Sub_with_dotNET8_WebAPI_producer/assets/32194879/c833a1f3-730c-454e-b041-38583e670cbe)
 
 ## 4. Create the project structure
 
-
+![Uploading image.png…]()
 
 ## 5. Create the Controller
 
@@ -225,7 +231,6 @@ app.MapControllers();
 
 app.Run();
 ```
-
 
 ## 7. Run and Test the application
 
