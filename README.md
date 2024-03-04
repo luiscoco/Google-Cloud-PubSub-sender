@@ -28,11 +28,31 @@ We verify the new topic and the corresponding subscription were created
 
 ![image](https://github.com/luiscoco/GoogleCloud_Pub_Sub_with_dotNET8_WebAPI_producer/assets/32194879/5cc67d2c-9b34-44c3-bd32-89f1be2960e8)
 
-
-
 ### 1.2. Create a Service Account
 
+We first navigate to the IAM and Admin service
 
+![image](https://github.com/luiscoco/GoogleCloud_Pub_Sub_with_dotNET8_WebAPI_producer/assets/32194879/cb2f7c3e-2378-4d3f-ad10-513231119034)
+
+We select the **Service Account** option in the left hand side menu, then we press the **CREATE SERVICE ACCOUNT** button
+
+![image](https://github.com/luiscoco/GoogleCloud_Pub_Sub_with_dotNET8_WebAPI_producer/assets/32194879/92c48fbb-a0c5-4be7-8b30-0fd09cf580ed)
+
+We input the Service Account details and we press the **CREATE AND CONTINUE** button
+
+![image](https://github.com/luiscoco/GoogleCloud_Pub_Sub_with_dotNET8_WebAPI_producer/assets/32194879/2ece5419-39b6-4c3d-ac64-ac47a2631969)
+
+We grant the permission to the service account
+
+![image](https://github.com/luiscoco/GoogleCloud_Pub_Sub_with_dotNET8_WebAPI_producer/assets/32194879/3e268e56-3422-4d80-ac3d-906d888da607)
+
+Once we granted the permissions we press the **Continue** button
+
+![image](https://github.com/luiscoco/GoogleCloud_Pub_Sub_with_dotNET8_WebAPI_producer/assets/32194879/e657d70f-80c5-4100-a066-4064a635c831)
+
+We finally press the **Done** button
+
+![image](https://github.com/luiscoco/GoogleCloud_Pub_Sub_with_dotNET8_WebAPI_producer/assets/32194879/a4be875d-6724-433b-9518-06a8e53145e7)
 
 ### 1.3. Set Environment Variable
 
