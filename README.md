@@ -74,9 +74,13 @@ We can see in the download folder the JSON credentials file downloaded from Goog
 
 ### 1.3. Set Environment Variable
 
-We run the application to edit and set the environmental variables
+We run the application to edit and create a new environmental variable **GOOGLE_APPLICATION_CREDENTIALS**
 
+![image](https://github.com/luiscoco/GoogleCloud_Pub_Sub_with_dotNET8_WebAPI_producer/assets/32194879/ab8ad61b-f6e2-435b-808b-fc32443eca60)
 
+![image](https://github.com/luiscoco/GoogleCloud_Pub_Sub_with_dotNET8_WebAPI_producer/assets/32194879/62da6348-303c-4c04-bae1-c18223b56072)
+
+![image](https://github.com/luiscoco/GoogleCloud_Pub_Sub_with_dotNET8_WebAPI_producer/assets/32194879/3e3028da-ae48-41b1-a5fa-35de3fcd8b54)
 
 ## 2. Create a .NET8 WebAPI with VSCode
 
