@@ -234,4 +234,15 @@ app.Run();
 
 ## 7. Run and Test the application
 
+We execute the following command to run the application
+
+```
+dotnet run
+```
+
+![image](https://github.com/luiscoco/GoogleCloud_Pub_Sub_with_dotNET8_WebAPI_producer/assets/32194879/473bcde1-abec-4be8-8345-2578aac4a912)
+
+We can verify the API docs with Swagger OpenAPI
+
+![image](https://github.com/luiscoco/GoogleCloud_Pub_Sub_with_dotNET8_WebAPI_producer/assets/32194879/b59b15ba-0a95-4218-9a8d-8b3bbc59c89b)
 
