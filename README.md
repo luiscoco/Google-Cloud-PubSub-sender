@@ -48,7 +48,7 @@ We grant the permission to the service account
 
 Once we granted the permissions we press the **Continue** button
 
-![image](https://github.com/luiscoco/GoogleCloud_Pub_Sub_with_dotNET8_WebAPI_producer/assets/32194879/e657d70f-80c5-4100-a066-4064a635c831)
+![image](https://github.com/luiscoco/GoogleCloud_Pub_Sub_with_dotNET8_WebAPI_producer/assets/32194879/fb6b203e-9970-4c43-ae91-a5028f819ec5)
 
 We finally press the **Done** button
 
